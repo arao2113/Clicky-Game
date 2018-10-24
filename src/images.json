@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Dennis",
+      "src": "Dennis.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Elgin",
+      "src": "Elgin.png"
+    },
+    {
+      "id": 3,
+      "name": "Jerry",
+      "src": "Jerry.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kareem",
+      "src": "Kareem.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Kobe",
+      "src": "Kobe.jpeg"
+    },
+    {
+      "id": 6, 
+      "name": "Magic",
+      "src": "Magic.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Shaq",
+      "src": "Shaq.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Wilt",
+      "src": "Wilt.jpg"
+    }
+  ]
